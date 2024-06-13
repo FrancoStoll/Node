@@ -12,7 +12,7 @@ interface PersonOptions {
   birthdate: string
 }
 
-const buildMakePerson = ({ getUUID, getAge }: BuildMakePersonOptions) => {
+export const buildMakePerson = ({ getUUID, getAge }: BuildMakePersonOptions) => {
   // Retorno la funcion que crea a la persona
   return ({ name, birthdate }: PersonOptions) => {
     return {
@@ -29,7 +29,3 @@ const buildMakePerson = ({ getUUID, getAge }: BuildMakePersonOptions) => {
 // const john = buildPerson(obj);
 
 // console.log(john);
-
-module.exports = {
-  buildMakePerson,
-};

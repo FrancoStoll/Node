@@ -3,8 +3,8 @@ export const emailTemplate = `
 
 <div>
     <h1>Hi, {{name}}</h1>
-    <p> Yhank you for your order</p>
-    <p>New paragraph</p>
+    <p> Thank you for your order</p>
+    <p>Order ID: {{orderId}}</p>
 </div>
 
 `;
