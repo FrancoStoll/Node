@@ -1,0 +1,24 @@
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-24T05:40:40.528Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-24T05:40:45.149Z"} 
+{"message":"TypeError: fetch failed","level":"low","createdAt":"2024-06-24T05:41:25.065Z"} 
+{"message":"TypeError: fetch failed","level":"low","createdAt":"2024-06-24T05:41:30.008Z"} 
+{"message":"TypeError: fetch failed","level":"low","createdAt":"2024-06-24T05:41:35.007Z"} 
+{"message":"TypeError: fetch failed","level":"low","createdAt":"2024-06-24T05:41:40.007Z"} 
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2024-06-24T05:42:50.080Z"} 
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2024-06-24T05:42:55.011Z"} 
+{"message":"the http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-06-26T15:42:45.127Z"} 
+{"message":"the http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-06-26T15:42:50.015Z"} 
+{"message":"the http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-06-26T15:42:55.022Z"} 
+{"message":"the http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-06-26T15:43:00.027Z"} 
+{"message":"the http://localhost:3000 is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-06-26T15:43:05.012Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-26T15:43:10.499Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-26T15:43:15.167Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-26T15:43:20.403Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-26T15:43:25.142Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-26T15:43:30.276Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-26T15:43:35.272Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-26T15:43:40.270Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-26T15:43:45.362Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-26T15:43:50.312Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-26T15:43:55.385Z"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-26T15:44:00.153Z"} 
