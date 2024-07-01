@@ -4,3 +4,17 @@
 {"message":"the local is not ok. TypeError: Failed to parse URL from local","level":"high","createdAt":"2024-06-27T02:44:10.012Z","origin":"chech-service.ts.local"} 
 {"message":"Email sent","level":"low","createdAt":"2024-06-27T18:48:12.794Z","origin":"email.service.ts"} 
 {"message":"Log email sent","level":"low","createdAt":"2024-06-27T19:03:24.842Z","origin":"send-email-logs.ts"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-30T03:51:00.850Z","origin":"check-service.ts.https://google.com"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-30T03:51:05.204Z","origin":"check-service.ts.https://google.com"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-30T03:51:10.427Z","origin":"check-service.ts.https://google.com"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-30T03:51:15.162Z","origin":"check-service.ts.https://google.com"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-30T03:51:20.480Z","origin":"check-service.ts.https://google.com"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-30T03:51:25.181Z","origin":"check-service.ts.https://google.com"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-30T03:51:30.393Z","origin":"check-service.ts.https://google.com"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-30T03:51:35.154Z","origin":"check-service.ts.https://google.com"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-30T03:51:40.216Z","origin":"check-service.ts.https://google.com"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-30T03:51:45.530Z","origin":"check-service.ts.https://google.com"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-30T03:51:50.184Z","origin":"check-service.ts.https://google.com"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-30T03:51:55.539Z","origin":"check-service.ts.https://google.com"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-30T03:52:00.200Z","origin":"check-service.ts.https://google.com"} 
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-06-30T03:52:05.330Z","origin":"check-service.ts.https://google.com"} 

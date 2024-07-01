@@ -4,3 +4,6 @@
 **/error.log
 **/dist
 **/env
+**/mongo
+**/postgres
+**/logs
