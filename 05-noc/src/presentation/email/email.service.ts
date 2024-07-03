@@ -4,14 +4,14 @@ import { LogRepository } from '../../domain/repository/log.repository';
 import { LogEntity, LogSeverityLevel } from '../../domain/entities/log.entity';
 
 
-interface SendMailOptions {
+export interface SendMailOptions {
     to: string | string[];
     subject: string;
     htmlBody: string;
     attachments?: Attachments[];
 }
 
-interface Attachments {
+export interface Attachments {
     filename: string;
     path: string
 }
@@ -21,7 +21,7 @@ export class EmailService {
 
 
     constructor(
-    
+
 
     ) { }
 
@@ -47,7 +47,7 @@ export class EmailService {
 
             return true
         } catch (error) {
-        
+
             return false
         }
 

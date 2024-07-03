@@ -21,8 +21,6 @@ export class SendEmailLogs implements SendLogEmailUseCase {
 
     public async execute(to: string | string[]): Promise<boolean> {
 
-
-
         try {
             const sent = await this.emailService.sendEmailWithFileSystemLogs(to);
             if (!sent) {
@@ -49,8 +47,6 @@ export class SendEmailLogs implements SendLogEmailUseCase {
             return false
         }
 
-
-        return false
     }
 
 }
