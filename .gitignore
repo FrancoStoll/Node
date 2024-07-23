@@ -9,3 +9,6 @@
 **/logs
 **/mongo-test
 **/postgres-test
+
+# Local Netlify folder
+.netlify
